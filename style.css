@@ -1,5 +1,6 @@
 body {
   font-family: "Rubik Moonrocks", cursive;
+  margin: 0;
 }
 h1 {
   font-size: 70px;
@@ -26,4 +27,8 @@ section {
 }
 p {
   text-align: justify;
+}
+.background {
+  background-image: url(/images/top-banner.png);
+  background-repeat: no-repeat;
 }
