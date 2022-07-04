@@ -29,12 +29,12 @@ p {
   text-align: justify;
 }
 .background {
-  background-image: url(/images/top-banner.png);
+  background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
   margin-bottom: 160px;
 }
 .background2 {
-  background-image: url(/images/dream-bg.png);
+  background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -50,7 +50,7 @@ h2 {
   font-size: 40px;
 }
 .experience-banner {
-  background-image: url(/images/exp-bg.png);
+  background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
   margin-top: 0;
 }
