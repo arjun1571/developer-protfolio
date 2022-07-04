@@ -50,7 +50,7 @@ h2 {
   font-size: 40px;
 }
 .experience-banner {
-  background-image: url(images/exp-bg.png);
+  background-image: url(/images/exp-bg.png);
   background-repeat: no-repeat;
   margin-top: 0;
 }
